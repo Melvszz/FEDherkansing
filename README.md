@@ -16,14 +16,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Melvin Rooth
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
-
+  Blauw
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
- 
+  Responsive
 </details>
 
 
@@ -37,14 +35,30 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.carhartt-wip.com/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Homepagina  
+  <img src="/images/screenshot1.jpg" width="375px" alt="Homepagina viewport">
+  <img src="/images/screenshot2.jpg" width="375px" alt="Homepagina artikelen">
+  <img src="/images/screenshot3.jpg" width="375px" alt="Homepagina artikelen">
+  <img src="/images/screenshot4.jpg" width="375px" alt="Homepagina artikelen">
+  <img src="/images/screenshot5.jpg" width="375px" alt="Homepagina artikelen">
+  <img src="/images/screenshot6.jpg" width="375px" alt="Homepagina artikelen">  
+  <img src="/images/screenshot7.jpg" width="375px" alt="Homepagina artikelen en journal">
+  <img src="/images/screenshot8.jpg" width="375px" alt="Homepagina artikelen en journal">
+  <img src="/images/screenshot9.jpg" width="375px" alt="Homepagina artikelen en journal">
+  <img src="/images/screenshot10.jpg" width="375px" alt="Homepagina artikelen en journal">
+  <img src="/images/screenshot11.jpg" width="375px" alt="Homepagina artikelen en shop now">
+  <img src="/mages/screenshot12.jpg" width="375px" alt="Homepagina footer">
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="/images/screenshot1.1.jpg" width="375px" alt="Product pagina">
+  <img src="/images/screenshot1.2.jpg" width="375px" alt="Product pagina">
+  <img src="/images/screenshot1.3.jpg" width="375px" alt="Product pagina aanbevelingen">
+  <img src="/images/screenshot1.4.jpg" width="375px" alt="Product pagina footer">
  
 </details>
 
