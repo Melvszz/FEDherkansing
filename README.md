@@ -74,27 +74,43 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Homepagina: Headers worden niet voorgelezen, onnodig veel tekst wordt voorgelezen. Het menu wat verstopt is buiten het beeld wordt allemaal voorgelezen.
+
+  Product pagina:
+  Menu wordt voorgelezen. Duurt te lang voordat hij alle items heeft doorlopen.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Homepagina:
+
+  Product pagina:
+
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Homepagina:In principe gaat het nog goed als je motorisch niet helemaal in orde bent, als je bijvoorbeeld vingers mist kan je nog best door de website heen scrollen. Dit is echter minder wanneer je met shocks de website bedient. Het is niet onmogelijk om met hevige shocks de website te doorlopen maar het maakt het wel super lastig en kost veel tijd.
+
+  Product pagina:
+  Zie omschrijving hierboven.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Home Pagina: Grijs op zwart is moeilkijk te lezen over het algemeen. Dit komt vaak voor bij de CTA's.
+
+  Product pagina:
+  Bij het kiezen van de kleuren van het product kun je niet zien welke kleur welke is.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Je zou dit kunnen oplossen door middel van een tooltip oid. Dit laat zien welke kleur het is (in tekst).
 </details>
 
 
@@ -105,7 +121,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="/images/breakdown1.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -125,7 +141,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Dit ging goed: opstellen van basis html kan ik nog. 
+  Dit ging minder goed: Niet zo goed in CSS. Ik zou meer moeten oefenen met de oefeningen van de werkgroep.
 
 
   ### Agenda voor meeting
